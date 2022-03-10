@@ -1,0 +1,7 @@
+C:\Users\abikarthi\Desktop\Azure\MyFirstTesting\bin\release\net6.0\publish\MyFirstTesting.exe
+C:\Users\abikarthi\Desktop\Azure\MyFirstTesting\bin\release\net6.0\publish\appsettings.Development.json
+C:\Users\abikarthi\Desktop\Azure\MyFirstTesting\bin\release\net6.0\publish\appsettings.json
+C:\Users\abikarthi\Desktop\Azure\MyFirstTesting\bin\release\net6.0\publish\MyFirstTesting.dll
+C:\Users\abikarthi\Desktop\Azure\MyFirstTesting\bin\release\net6.0\publish\MyFirstTesting.deps.json
+C:\Users\abikarthi\Desktop\Azure\MyFirstTesting\bin\release\net6.0\publish\MyFirstTesting.runtimeconfig.json
+C:\Users\abikarthi\Desktop\Azure\MyFirstTesting\bin\release\net6.0\publish\MyFirstTesting.pdb
